@@ -1,0 +1,68 @@
+@font-face {
+    font-family: rw;
+    src: url(rain-world-menu.ttf);
+}
+
+@font-face {
+    font-family: rw2;
+    src: url(Rodondo.otf);
+}
+
+body{
+    background-color: rgb(44, 44, 44);
+    font-family: rw;
+}
+
+h1{
+    font-family: rw2;
+    font-size: 4em;
+}
+
+.card-title{
+    font-family: rw2;
+    font-size: 3em;
+}
+
+.carousel .carousel-indicators button{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.carousel-caption{
+    top: 0;
+    bottom: auto;
+}
+
+#title{
+    color: white;
+}
+
+.brown-style{
+    background-color: rgb(255, 219, 176);
+}
+
+.blue-style{
+    background-color: rgb(169, 196, 255);
+}
+
+.purple-style{
+    background-color: rgb(197, 160, 255);
+}
+
+.red-style{
+    background-color: rgb(255, 187, 169);
+}
+
+.white-style{
+    background-color: rgb(240, 255, 255);
+}
+
+.green-style{
+    background-color: rgb(199, 255, 178);
+}
+
+footer *{
+    color: white;
+}
+
